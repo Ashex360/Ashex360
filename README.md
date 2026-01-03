@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Ashish (Ash)
 
-<!--
-**Ashex360/Ashex360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Developer | 🚀 Tech Explorer  
 
-Here are some ideas to get you started:
+## 🔥 About Me
+- Passionate about building real-world tech solutions
+- Interested in AI & ML, AIot, Data & Blockchain
+- Love learning by building projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: C++, Java, Python, Embedded C
+- Web: HTML5, Tailwind CSS, React, JavaScript
+- Database: MySQL, MongoDB
+- Tools: Git, GitHub, VS Code, Docker, Jenkins
+
+## 📌 Projects
+- 🔍 DeepFake Image Detection
+- 🚌 AI Powered Real-time Bus Tracking App (PravasMitra)
+- 🧾 Student Result Management System
+
+## 📫 Connect with Me
+- LinkedIn: *https://www.linkedin.com/in/ashish-sarda-5051982a3*
+- YouTube: Ashish Sarda
+- Email: *aashihsarda@rediff.com*
+
+✨ *Always learning. Always building.*
