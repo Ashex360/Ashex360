@@ -87,3 +87,5 @@ Government Polytechnic, Hingoli (2020–2023)
 - LinkedIn: https://www.linkedin.com/in/ashish-sarda-5051982a3/
 - Email: aashishsarda@rediffmail.com
 
+  ![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashex360&show_icons=true&hide_title=true&hide_rank=true&disable_animations=true)
+
