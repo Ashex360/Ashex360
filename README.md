@@ -23,5 +23,10 @@ I enjoy building **scalable backend systems**, working with **APIs**, and solvin
 ### Languages and Tools:
 - **Languages:** Python, Java, C/C++, SQL  
 - **Backend:** REST APIs, FastAPI, Flask, PostgreSQL  
-- **Applied AI:** Data Preprocessing, Model Inference, ML Integration  
+- **Applied AI:** Data Preprocessing, Model Inference, ML Integration
 - **Tools:** Git, Docker, Linux, AWS (basics)
+
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashex360&layout=compact&theme=dark)
