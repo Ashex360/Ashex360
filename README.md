@@ -28,6 +28,4 @@ I enjoy building **scalable backend systems**, working with **APIs**, and solvin
 
 
 ### Most Used Languages
-[
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashex360&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashex360&layout=compact&theme=dark&hide=html,css
-)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashex360&layout=compact&theme=tokyonight)
