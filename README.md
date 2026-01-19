@@ -27,5 +27,6 @@ I enjoy building **scalable backend systems**, working with **APIs**, and solvin
 - **Tools:** Git, Docker, Linux, AWS (basics)
 
 
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashex360&layout=compact&theme=dark&hide=jupyter%20notebook)
+### Most Used Languages!
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashex360&layout=compact&theme=dark&hide=html)
+
