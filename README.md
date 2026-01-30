@@ -7,7 +7,7 @@ I enjoy building **scalable backend systems**, working with **APIs**, and solvin
 - 🔭 I’m currently working on **backend and applied AI projects**
 - 🌱 I’m currently learning **system design basics and backend optimization**
 - 👨‍💻 All of my projects are available at **https://ashex360.github.io/**
-- 💬 Ask me about **Python, Java, REST APIs, SQL & Hocky**
+- 💬 Ask me about **Python, Java, REST APIs, SQL, Hocky & My Fav Minecraft**
 - 📫 How to reach me: **aashishsarda@rediffmail.com**
 - 📄 Know about my experiences: **Resume**
 - ⚡ Fun fact: I look funny while coding.
